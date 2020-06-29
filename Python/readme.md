@@ -1,4 +1,4 @@
-# Orian's Python Solutions
+# Orian's Exercism Python Solutions
 
 readme.md for Python folder within exercism-exercises (execism-exercises/Python/)
 
