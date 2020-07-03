@@ -11,8 +11,8 @@ Exercism website: http://exercism.io/
 SoloLearn website: https://www.sololearn.com/
 
 The ultimate goal of this project is to learn the following concepts in Python:  
-1: Optional Values
-2: Text Formatting
+1: Optional Values  
+2: Text Formatting  
 3: Conditionals
 4: Algorithms
 5: Arrays
