@@ -10,7 +10,7 @@ I used SoloLearn to learn Python and will apply what I've learned to Exercism's 
 Exercism website: http://exercism.io/
 SoloLearn website: https://www.sololearn.com/
 
-The ultimate goal of this project is to learn the following concepts in Python:
+The ultimate goal of this project is to learn the following concepts in Python:"\n"
 1: Optional Values
 2: Text Formatting
 3: Conditionals
