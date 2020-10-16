@@ -1,18 +1,10 @@
-def latest(list):
-    if len(list) > 0:
-        return list[len(list)-1]
-    else:
-        return "List is empty."
+def latest(scores):
+    return scores[len(scores)-1]
 
-def personal_best(list):
-    if len(list) > 1:
-        return max(list)
-    else:
-        return list
+def personal_best(scores):
+    return max(scores)
 
-def personal_top_three(list):
-    if len(list) == 0:
-        return "Input list is empty."
-    else:
-        result = sorted(list)[-3:]
-        return sorted(result,key=None,reverse=True)
+def personal_top_three(scores):
+    scores.sort()
+    scores.reverse()
+    return scores[0:3]
