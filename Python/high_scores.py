@@ -1,3 +1,5 @@
+""" fourth iteration 10/18/2020 """
+
 def latest(scores):
     return scores[-1:][0]
 
